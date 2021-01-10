@@ -2,4 +2,4 @@ Name 			Amount
 mouni			1700
 devi			5400
 durga			7644
-
+lalli			5433

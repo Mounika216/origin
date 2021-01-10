@@ -1,4 +1,4 @@
 Amount			Name
 1600			durga
 2300			mouni
-980			devi
+980			anveshi
